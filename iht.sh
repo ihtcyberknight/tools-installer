@@ -33,12 +33,14 @@ echo  "_____________________________________________________________" | lolcat
 echo  "[TYPE      : TOOLS INSTALLER] " |lolcat
 echo  "[VERSION   : V.4] " | lolcat
 echo  "[TOTALS    : 400++ TOOLS] " | lolcat
-echo  "[AUTHOR    : IHT] " |lolcat
-echo  "[ASSOCIATE : IHT_CyberKnight] " |lolcat
+echo  "[AUTHOR    : TU4N B4DUT ] " |lolcat
+echo  "[ASSOCIATE : INDONESIAN TERMUX ASSOCIATION " |lolcat
 echo  "[NOTES     : JELAJAHI SETIAP TOOLS DENGAN BIJAK] " | lolcat
 echo  "[THANKS TO : GOD]" | lolcat
 echo  "_____________________________________________________________" | lolcat
 
+echo  " INDONESIAN TERMUX ASSOCIATION ● BUITENZORG SYNDICATE ●"
+echo  "Real (+62xxxxxxx5191) ●tuanb4dut@gmail.com ●https://www.buitenzorgsyndicate.io" | lolcat
 sleep 1
 
 ###################################################
@@ -67,15 +69,13 @@ lagi=1
 while [ $lagi -lt 6 ];
 do
 
-echo ""                
-echo ""                
-
+echo ""
+echo ""
 echo  "######################################" | lolcat
 echo  "#SILAHKAN TUNGGU DAN LIHAT LIST TOOLS#" | lolcat
-echo  "######################################" | 
-lolcat
+echo  "######################################" | lolcat
 
-echo ""                
+echo ""
 echo  "TOOLS INI CUMAN UNTUK MENGINSTALLNYA SAJA" |lolcat
 echo  "JIKA MAU MENJALANKAN TOOLS YANG KALIAN INSTALL" | lolcat
 echo  "SILAHKAN KETIK 00 LALU KETIK ls" | lolcat
@@ -86,9 +86,8 @@ echo  "#TTD IHT GANS 😎" | lolcat
 echo  "#IHT MAH BEBAS😎" | lolcat
 echo ""
 echo  "TUNGGU KURANG LEBIH 5 MENIT"
-echo ""  
-echo ""  
-
+echo ""
+echo ""
 
 echo -e "============================" | lolcat
 echo -e $b "1. Install Nmap${enda}";
